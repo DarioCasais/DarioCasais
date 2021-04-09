@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DarioCasais
-- 👀 I’m interested in ... webdisen
+- 👀 I’m interested in ... web design
 - 🌱 I’m currently learning ... python - html 5 - Javascript -Bootstrap - Css
 - 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ...
