@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @DarioCasais
-- 👀 I’m interested in ... web design
-- 🌱 I’m currently learning ... python - html 5 - Javascript -Bootstrap - Css
+- 👀 I’m interested in Project managmet.
+- 🌱 I’m currently learning Django for web develpment.
 - 💞️ I’m looking to collaborate on ... 
-- 📫 How to reach me ...
+- 📫 How to reach me dfcasais@hotmail.com
 
 <!---
 DarioCasais/DarioCasais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
